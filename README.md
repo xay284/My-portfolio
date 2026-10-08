@@ -1,1 +1,2 @@
-# Chayma Majjedi — Portfolio Personal portfolio showcasing my work in **Data Science, AI, Machine Learning, NLP, and RAG**. Built with: - HTML - CSS - JavaScript
+# Chayma Majjedi — Portfolio Personal 
+portfolio showcasing my work in **Data Science, AI, Machine Learning, NLP, and RAG**. Built with: - HTML - CSS - JavaScript
